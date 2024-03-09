@@ -1,3 +1,51 @@
 #EXTM3U
+#EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
+https://i.postimg.cc/sxQMdvDP/20240303-181601.png
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/d0xt9Jwz/1280px-ATN-Bangla-svg.png",ATN Bangla
+https://s.id/Atnbangbd
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1RgMBBcT/DBC-News-Logo-svg.png",DBC News
+https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/RFJbn2gw/Deepto-TV-logo.png",Deepto TV
+https://s.id/Diptotv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Rh9v7G9F/images-4.jpg",Satv
+http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
+https://s.id/23OKU
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo=" ",Masranga tv ch
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+Indian Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/HxxBn8Vh/Sony-Aath-new.png",Sony Aath
+https://test.bongodrive.pw/bdix.m3u8?ac=1409
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PNsyPG88/Star-Jalsha-logo-2023.png",Star Jalsha
+https://s.id/23EdA
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tRDnDvvW/Jalsha-Movies.png",Jalsha Movie
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7970&deviceMac=00:1A:79:31:34:35
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/2Sv64sLS/unnamed.jpg",Zee Bangla
+http://51.159.13.107:8090/BD_ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+http://watchindia.net:8880/live/62448/92037/2283.ts
+https://s.id/23P2t
+http://xtv.ooo:8080/564587696/474585694/245893
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",Zee Bangla Cinema
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100702
+English Movie
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
+https://s.id/23Eb7
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+ BDIX
+https://s.id/23E7p
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/hPhLLt0b/MNX-new-logo.png",MNX
+https://s.id/23E6v
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star Movies
+https://test.bongodrive.pw/bdix.m3u8?ac=1605
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/CLzZ3Vj7/1200px-STAR-Movies-logo-svg.png",Star Movies BDIX
+https://s.id/23DYG
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Y0nTTs5G/images-2.jpg",Movies Now
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Y0nTTs5G/images-2.jpg",Movies Now BDIX
+https://s.id/23DYu
+
+
+
+
